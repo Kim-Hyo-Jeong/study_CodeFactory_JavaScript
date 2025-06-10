@@ -12,7 +12,7 @@ let age = "20";
 let stringAge = age.toString();
 console.log(typeof stringAge, stringAge); // string 20
 
-//암묵적적
+//암묵적
 let test = age;
 console.log(typeof test, test); // string 20
 
