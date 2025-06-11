@@ -10,7 +10,7 @@ class akatsuki {
 
     /**
      * 1) 데이터를 가공해서 새로운 데이터를 반환할 때
-     * 2) private한 값을 반환할 때때
+     * 2) private한 값을 반환할 때
      */
     get nameAndBirthday() {
         return `${this.name} / ${this.birthday}`;
