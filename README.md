@@ -1,4 +1,4 @@
-# # 🎓 JavaScript Practice
+# 🎓 JavaScript Practice
 
 > 본 문서는 [코드팩토리]의 무료 강의  
 > **[입문] 9시간만에 끝내는 코드팩토리의 Javascript 무료 풀코스**를 들으며 실습한 코드들을 정리한 공간입니다.
