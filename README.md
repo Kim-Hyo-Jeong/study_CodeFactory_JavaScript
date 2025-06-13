@@ -56,9 +56,3 @@
 1. 비동기 프로그래밍 소개
 2. Callback Hell and Promise (콜백헬과 프로미스)
 3. Async & Await
-
----
-
-## ✅ 섹션 5. 다음으로
-
-38. Typescript
